@@ -1,0 +1,10 @@
+button{
+margin: 15px 0; 
+width: 200px;
+text-align: center;
+}
+#exercises-list{
+display:flex;
+flex-direction: column;
+align-items: center;
+}
